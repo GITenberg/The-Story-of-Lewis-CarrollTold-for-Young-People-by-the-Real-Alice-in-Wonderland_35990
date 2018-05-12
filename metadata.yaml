@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38017
     wikipedia: http://en.wikipedia.org/wiki/Isa_Bowman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35990#The-Story-of-Lewis-CarrollTold-for-Young-People-by-the-Real-Alice-in-Wonderland
 gutenberg_issued: '2011-04-29'
 gutenberg_type: Text
 identifiers:
