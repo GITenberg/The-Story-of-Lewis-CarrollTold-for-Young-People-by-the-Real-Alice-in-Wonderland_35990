@@ -1,0 +1,31 @@
+_repo: The-Story-of-Lewis-CarrollTold-for-Young-People-by-the-Real-Alice-in-Wonderland_35990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bowman, Isa
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '38017'
+    url: http://www.gutenberg.org/2009/agents/38017
+    wikipedia: http://en.wikipedia.org/wiki/Isa_Bowman
+description: ''
+gutenberg_issued: '2011-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35990'
+  lccn: '03021720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Carroll, Lewis, 1832-1898 -- Juvenile literature'
+- !lcsh 'Authors, English -- 19th century -- Biography -- Juvenile literature'
+title: 'The Story of Lewis Carroll
+
+  Told for Young People by the Real Alice in Wonderland'
+url: http://www.gutenberg.org/ebooks/35990
